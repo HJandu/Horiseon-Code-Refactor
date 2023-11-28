@@ -3,7 +3,7 @@
 ## <ins>Description<ins/>
 Horiseon, a marketing agency, wants a codebase that follows accessibilty standards, so that their site is optimized for search engines. Horiseon has hired me to refactor an existing site to make it more accessible. 
 
-During this task, I made sure the website met the accessibility standards. You will notice the following changes to the starter code:
+During this task, I made sure the website met the accessibility standards. You will find the following on the code:
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
@@ -12,10 +12,10 @@ During this task, I made sure the website met the accessibility standards. You w
 
 Also, I reworked the CSS to enhance efficiency by consolidating CSS selectors and properties, organizing them according to the semantic structure of the HTML elements, and included comments before each element or section of the page. 
 
+[Deployed website](https://hjandu.github.io/Horiseon-Code-Refactor/)
+
 ![01-html-css-git-challenge-demo](https://github.com/HJandu/Horiseon-Code-Refactor/assets/116304118/e6102edf-9d3b-46c1-ac27-52002b70e442)
 
-
-[Deployed website]( )
 
 ## <ins>Installation<ins/>
 In order to run the HTML and CSS code, you will need VS code installed. Make sure live server is installed in extensions. 
