@@ -24,7 +24,7 @@ Click here to access the [HTML file](   )
 Click here to access the [CSS file]( )
 
 ## <ins>Credits<ins/>
-[Hardip Jandu](  )
+[Hardip Jandu](https://github.com/HJandu)
 
 ## <ins>License<ins/>
 MIT License [Copyright (c)]( )
