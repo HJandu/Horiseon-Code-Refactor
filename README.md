@@ -20,12 +20,12 @@ Also, I reworked the CSS to enhance efficiency by consolidating CSS selectors an
 ## <ins>Installation<ins/>
 In order to run the HTML and CSS code, you will need VS code installed. Make sure live server is installed in extensions. 
 
-Click here to access the [HTML file](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/index.html) 
+[Click here](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/index.html) to access the HTML file.
 
-Click here to access the [CSS file](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/assets/css/style.css)
+[Click here](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/assets/css/style.css) to access the CSS file.
 
 ## <ins>Credits<ins/>
 [Hardip Jandu](https://github.com/HJandu)
 
 ## <ins>License<ins/>
-MIT License [Copyright (c)](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/LICENSE)
+[MIT License](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/LICENSE) Copyright (c)
