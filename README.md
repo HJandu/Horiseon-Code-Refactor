@@ -19,7 +19,7 @@ Also, I reworked the CSS to enhance efficiency by consolidating CSS selectors an
 ## <ins>Installation<ins/>
 In order to run the HTML and CSS code, you will need VS code installed. Make sure live server is installed in extensions. 
 
-Click here to access the [HTML file](   ) 
+Click here to access the [HTML file](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/index.html) 
 
 Click here to access the [CSS file](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/assets/css/style.css)
 
