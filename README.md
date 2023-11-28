@@ -27,4 +27,4 @@ Click here to access the [CSS file]( )
 [Hardip Jandu](https://github.com/HJandu)
 
 ## <ins>License<ins/>
-MIT License [Copyright (c)]( )
+MIT License [Copyright (c)](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/LICENSE)
