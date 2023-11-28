@@ -12,7 +12,8 @@ During this task, I made sure the website met the accessibility standards. You w
 
 Also, I reworked the CSS to enhance efficiency by consolidating CSS selectors and properties, organizing them according to the semantic structure of the HTML elements, and included comments before each element or section of the page. 
 
-## insert image here
+![01-html-css-git-challenge-demo](https://github.com/HJandu/Horiseon-Code-Refactor/assets/116304118/e6102edf-9d3b-46c1-ac27-52002b70e442)
+
 
 [Deployed website]( )
 
