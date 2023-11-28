@@ -21,7 +21,7 @@ In order to run the HTML and CSS code, you will need VS code installed. Make sur
 
 Click here to access the [HTML file](   ) 
 
-Click here to access the [CSS file]( )
+Click here to access the [CSS file](https://github.com/HJandu/Horiseon-Code-Refactor/blob/main/assets/css/style.css)
 
 ## <ins>Credits<ins/>
 [Hardip Jandu](https://github.com/HJandu)
